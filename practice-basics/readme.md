@@ -1,4 +1,4 @@
-# GO-Studies
+# Simple - BMI Calculator
 
 > At this exercise i developed a simple application, an BMI Calculator.
 
