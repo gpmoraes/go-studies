@@ -1,6 +1,7 @@
 /*
-This Go program reads lines of text from the standard input and identifies the lines that appear more than once.
-It then prints each duplicated line followed by the number of times it appears.
+This Go program reads lines of text from the standard input and identifies the lines that
+appear more than once. It then prints each duplicated line followed by the number of
+times it appears.
 
 Algorithm:
  1. Initialize an empty map called "counts" to store the counts of each line.
@@ -13,9 +14,8 @@ Algorithm:
     4.1.1. Check if the count (number of occurrences) is greater than 1.
     4.1.1.1. If yes, print the number of occurrences and the line.
  5. End of the program.
-
-The purpose of this program is to efficiently find and print the lines of text that appear more than once in the input, along with the number of times they appear. The map data structure is used to keep track of the counts, which allows for a fast and straightforward identification of duplicated lines.
 */
+
 package main
 
 import (
