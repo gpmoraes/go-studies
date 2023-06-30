@@ -20,7 +20,9 @@ Algorithm:
     5.1.1.1. If yes, print the number of occurrences and the line.
  6. End of the program.
 
-This program allows counting the occurrences of lines in one or more files or from the standard input. It uses a map to store the counts, and the "countLines" function is responsible for counting the lines from a given source.
+This program allows counting the occurrences of lines in one or more files or from the
+standard input. It uses a map to store the counts, and the "countLines" function is
+responsible for counting the lines from a given source.
 */
 package main
 
